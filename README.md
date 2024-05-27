@@ -16,6 +16,8 @@
 
 -📬 Don't hesitate to contact me to discuss possible collaborations and work opportunities
 
+- 📨 If you want to contact me you can do it from my discord: @ibares (1102730582489825414) or or via email: cjxanderr12@gmail.com
+
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
